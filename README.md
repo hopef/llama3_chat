@@ -8,8 +8,26 @@
 
 ---
 
+# Quick Start
 
-# Meta Llama 3
+Please run streaming_chat.py for streaming chat: `python streaming_chat.py`.
+
+```bash
+User: Hi AI!
+Hi there! It's great to meet you! I'm your friendly AI assistant, here to help with any questions, tasks, or just to chat. What's on your mind today?
+
+User: Can you say emoji?
+😊
+
+User: Say more.
+😊👋💬🎉👀💕👫💻🎊🔥👽💸🎁😄👻🕷️💥😎
+
+User: Tell me a simple joke!
+Why couldn't the bicycle stand up by itself?
+Because it was two-tired! 😄
+```
+
+# Meta Llama 3 (Streaming Chat)
 
 We are unlocking the power of large language models. Our latest version of Llama is now accessible to individuals, creators, researchers, and businesses of all sizes so that they can experiment, innovate, and scale their ideas responsibly.
 
